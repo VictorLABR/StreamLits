@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 
 import plotly.express as px
-from PIL import Image
 
 # Pré-configurações
 st.set_page_config(page_title = "Corridas UBER - NY",
